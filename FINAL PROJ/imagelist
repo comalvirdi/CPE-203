@@ -1,0 +1,70 @@
+blacksmith images/blacksmith.bmp 255 255 255 0
+blob images/blob1.bmp 255 255 255 0
+blob images/blob2.bmp 255 255 255 0
+blob images/blob3.bmp 255 255 255 0
+blob images/blob4.bmp 255 255 255 0
+blob images/blob5.bmp 255 255 255 0
+blob images/blob6.bmp 255 255 255 0
+blob images/blob7.bmp 255 255 255 0
+blob images/blob8.bmp 255 255 255 0
+blob images/blob9.bmp 255 255 255 0
+blob images/blob10.bmp 255 255 255 0
+blob images/blob11.bmp 255 255 255 0
+blob images/blob12.bmp 255 255 255 0
+miner images/miner1.bmp 252 252 252 0
+miner images/miner2.bmp 252 252 252 0
+miner images/miner3.bmp 252 252 252 0
+miner images/miner4.bmp 252 252 252 0
+miner images/miner5.bmp 252 252 252 0
+quake images/quake1.bmp 255 255 255 0
+quake images/quake2.bmp 255 255 255 0
+quake images/quake3.bmp 255 255 255 0
+quake images/quake4.bmp 255 255 255 0
+quake images/quake5.bmp 255 255 255 0
+quake images/quake6.bmp 255 255 255 0
+eggBackground images/eggBackground.bmp
+dino images/dino1.bmp 252 252 252 0
+dino images/dino2.bmp 252 252 252 0
+dino images/dino3.bmp 252 252 252 0
+dino images/dino4.bmp 252 252 252 0
+dino images/dino5.bmp 252 252 252 0
+dino images/dino6.bmp 252 252 252 0
+dino images/dino7.bmp 252 252 252 0
+dino images/dino8.bmp 252 252 252 0
+dino images/dino9.bmp 252 252 252 0
+dino images/dino10.bmp 252 252 252 0
+dino images/dino11.bmp 252 252 252 0
+dino images/dino12.bmp 252 252 252 0
+dino images/dino13.bmp 252 252 252 0
+dino images/dino14.bmp 252 252 252 0
+dino images/dino15.bmp 252 252 252 0
+dino images/dino16.bmp 252 252 252 0
+zom images/zom1.bmp 252 252 252 0
+zom images/zom2.bmp 252 252 252 0
+zom images/zom3.bmp 252 252 252 0
+zom images/zom4.bmp 252 252 252 0
+zom images/zom5.bmp 252 252 252 0
+zom images/zom6.bmp 252 252 252 0
+zom images/zom7.bmp 252 252 252 0
+zom images/zom8.bmp 252 252 252 0
+zom images/zom9.bmp 252 252 252 0
+zom images/zom10.bmp 252 252 252 0
+zom images/zom11.bmp 252 252 252 0
+zom images/zom12.bmp 252 252 252 0
+zom images/zom13.bmp 252 252 252 0
+zom images/zom14.bmp 252 252 252 0
+zom images/zom15.bmp 252 252 252 0
+zom images/zom16.bmp 252 252 252 0
+
+
+
+
+
+
+ore images/ore.bmp 201 26 26 0
+obstacle images/obstacle.bmp
+grass images/grass.bmp
+rocks images/rock.bmp
+dirt images/dirt.bmp
+vein images/vein.bmp
+background_default images/none.bmp

@@ -1,0 +1,39 @@
+DESIGN.txt
+
+Methods Left in Functions Class:
+
++loadImages(): Required to keep in Functions
+-processImageLine(): Required to keep in Functions
+-getImages(): List<PImage>: Required to keep in Functions
+-setAlpha(): Required to keep in Functions
++load(): Required to keep in Functions
+-processLine(): Required to keep in Functions
+-parseBackground(): Required to keep in Functions
+-parseMiner(): Required to keep in Functions
+-parseObstacle(): Required to keep in Functions
+-parseOre(): Required to keep in Functions
+-parseSmith(): Required to keep in Functions
+-parseVein(): Required to keep in Functions
+-createBlacksmith(): Only called by parseSmith function which is also in the Functions class
+-createObstacle(): Only called by parseObstacle function which is also in the Functions class
+-createVein(): Only called by ParseVein in Functions
+
+
+
+More Methods Explained:
+
++createMinerFull(): placed in Entity because it was only called from method in Entity Class
++createMinerNotFull(): placed in Entity class because it was called from there and seemed like a better fit than to keep in Functions where it is only called by ParseMiner()
++createOreBlob(): Placed in Entity because it was called only by one other method in entity(an ore blob is an entity)
++createOre(): placed in Entity class because it was called from there and seemed like a better fit than to keep in Functions(an ore is an entity)
++createQuake(): Placed in Entity because that is where it is called from and Functions did not seem to be the most ideal place to keep it (a quake is an entity)
+nearestEntity(): placed in worldModel because that is where it is called from by findNearest)()
+executeXXXAction(): placed in action class because they are action methods
+executexxxActivity(): placed in entity class because activities are being executed by entities and are dependent on type of entity
+findOpenAround()/ withinBounds()/ isOccupied(): placed in worldModel because it is specific to the game and not to the point
+moving/removingEntity methods: World Model because removing and moving entities is not entity specific it is general for all and they are removed from the world
+clamp(): moved to worldview because it is a helper method of another method in world view
+
+
+
+

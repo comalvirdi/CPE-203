@@ -1,0 +1,19 @@
+1. how to trigger the event
+
+    Click the mouse on the virtual world and a patch of dinosaur eggs will appear
+
+2. what should happen when the event is triggered
+
+    When the event is triggered, the closest miner will turn into a sword wielding mutant
+
+3. what the affected entities should do
+
+    The sword wielding mutants will now seek and kill the oreblobs
+
+4. what the new entity is and how it should behave
+
+    A dinosaur is hatched from the eggs and chases unmutated miners, when caught the miners mutate
+
+5. (if applicable) the names of each partner and what each partner was responsible for
+
+    Just me :)
